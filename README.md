@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sohini-banerjee
+- 👋 Hi, I’m @sohini-banerjee-in
 - 👀 I’m interested in jobs pertaining to Data Analytics. I have knowledge of Power BI, SQL, Tableau, & Execel.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any projects.

@@ -5,8 +5,15 @@
 - 📫 How to reach me ...
       Mobile: 7439142247
       Email: mailsohinibanerjee@gmail.com
-      Storytellingwithdata Profile:[https://community.storytellingwithdata.com/members/me/gallery](url)
-      TableauPublic Profile: https://public.tableau.com/profile/sohini8315#!/
+      
+      Storytellingwithdata Profile:
+      
+      [https://community.storytellingwithdata.com/members/me/gallery](url)
+      
+      
+      TableauPublic Profile: 
+      
+      https://public.tableau.com/profile/sohini8315#!/
 
 <!---
 sohini-banerjee-in/sohini-banerjee-in is a ✨ special ✨ repository because its `README.md` (this file) apbpears on your GitHub profile.
